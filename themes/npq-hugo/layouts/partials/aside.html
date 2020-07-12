@@ -1,0 +1,30 @@
+<aside id="sidenav">
+    <header>
+    {{if eq .Site.Params.useAvatar true}}
+        <a href={{ "" | absURL }}><img src="{{ "avatar.png" | absURL }}" alt="avatar"></a>
+        
+    {{end}}
+
+    <a id="branding" href={{ "" | absURL }}>
+        {{with .Site.Params.logo}}
+            {{ . | safeHTML }}
+        {{else}}
+            {{ .Site.Title }}
+        {{end}}
+    </a>
+    </header>
+
+    <nav>
+        {{ range .Site.Menus.main }}
+            {{ $url := urls.Parse .URL }}		
+            <a href="{{ $url }}"
+                {{ if ne $url.Host ""}}
+                    target="_blank"
+                {{end}}
+            >
+                {{ .Pre }}
+                <span>{{ .Name }}</span>
+            </a>
+        {{end}}
+    </nav>
+</aside>

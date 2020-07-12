@@ -1,0 +1,12 @@
+name = "npq hugo"
+license = "GPLv3"
+licenselink = "https://github.com/saadnpq/npq-hugo/blob/master/LICENSE"
+description = "hugo theme for personal sites"
+homepage = "https://github.com/saadnpq/npq-hugo"
+tags = ["blog", "contact form", "micro blog", "responsive", "mobile", "personal", "dark",]
+features = ["dark", "contact form", "responsive"]
+min_version = "0.59.1"
+
+[author]
+    name = "saadnpq"
+    homepage = "https://saadnpq.com/"
