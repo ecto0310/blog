@@ -3,7 +3,12 @@ languageCode = "ja-jp"
 title = "ecto0310"
 theme = "npq-hugo"
 pygmentsUseClasses=true
-pygmentsCodefences = true 
+pygmentsCodefences = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   author = "ecto0310"
