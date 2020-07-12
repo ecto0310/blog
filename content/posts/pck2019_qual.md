@@ -15,7 +15,7 @@ draft: false
 致命的です．  
 
 ## コンテスト中
-![](/images/pck2019_submitlist.jpg)
+![](/images/pck2019_qual_submitlist.jpg)
 
 ### 1問目 柴犬の数
 去年はFAが取れず悔しかったので今年こそはと思いFAを狙いに行きました．  
