@@ -1,3 +1,46 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://ecto0310.jp"
+languageCode = "ja-jp"
+title = "ecto0310"
+theme = "npq-hugo"
+pygmentsUseClasses=true
+pygmentsCodefences = true 
+
+[params]
+  author = "ecto0310"
+  description = "People"
+  keywords = "ecto0310 blog"
+  useAvatar = true
+  displayRecent = true
+  recentMax = 5 
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class=\"fas fa-home fa-sm\"></i>"
+    url = "/"
+    weight = -9
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class=\"fas fa-keyboard fa-ms\"></i>"
+    url = "/posts"
+    weight = -8
+  [[menu.main]]
+    name = "Categories"
+    pre = "<i class=\"fas fa-tags fa-ms\"></i>"
+    url = "/categories"
+    weight = -7
+  [[menu.main]]
+    name = "GitHub"
+    pre = "<i class=\"fab fa-github fa-ms\"></i>"
+    url = "https://github.com/ecto0310"
+    weight = -6
+  [[menu.main]]
+    name = "Twitter"
+    pre = "<i class=\"fa fa-twitter\"></i>"
+    url = "https://twitter.com/ecto0310"
+    weight = -5
+  [[menu.main]]
+    name = "RSS"
+    pre = "<i class=\"fas fa-rss fa-ms\"></i>"
+    url = "/index.xml"
+    weight = -1
