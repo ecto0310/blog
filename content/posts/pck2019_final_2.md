@@ -1,7 +1,7 @@
 ---
 title: "PCK2019 本選 参加記 (2)"
 date: 2019-11-15T23:34:19+09:00
-categories: ["PCK2019","Final"]
+tags: ["PCK2019","Final"]
 draft: false
 ---
 ## はじめに

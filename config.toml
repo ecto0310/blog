@@ -30,9 +30,9 @@ pygmentsCodefences = true
     url = "/posts"
     weight = -8
   [[menu.main]]
-    name = "Categories"
+    name = "Tags"
     pre = "<i class=\"fas fa-tags fa-ms\"></i>"
-    url = "/categories"
+    url = "/tags"
     weight = -7
   [[menu.main]]
     name = "GitHub"

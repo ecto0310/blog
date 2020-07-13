@@ -1,7 +1,7 @@
 ---
 title: "PCK2019 予選 参加記"
 date: 2019-09-25T15:01:41+09:00
-categories: ["PCK2019","Qual"]
+tags: ["PCK2019","Qual"]
 draft: false
 ---
 ## はじめに
