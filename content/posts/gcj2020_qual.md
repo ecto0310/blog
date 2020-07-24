@@ -1,5 +1,5 @@
 ---
-title: "GCJ2020 Qualに参加しました"
+title: "GCJ2020 Qual 参加記"
 date: 2020-04-07T15:31:51+09:00
 tags: ["GCJ2020","Qual"]
 ---
