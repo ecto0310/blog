@@ -2,7 +2,6 @@
 title: "GCJ2020 Qualに参加しました"
 date: 2020-04-07T15:31:51+09:00
 tags: ["GCJ2020","Qual"]
-draft: false
 ---
 ## はじめに
 GCJ2020 Qualに参加しました．  

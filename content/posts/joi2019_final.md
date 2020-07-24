@@ -2,7 +2,6 @@
 title: "JOI2019 本選 参加記"
 date: 2020-02-09T23:59:44+09:00
 tags: ["JOI2019","Final"]
-draft: false
 ---
 ## はじめに
 JOIの本選に参加しました．  

@@ -2,7 +2,6 @@
 title: "SuperCon2019 本選 参加記"
 date: 2019-08-24T13:57:02+09:00
 tags: ["SuperCon2019","Final"]
-draft: false
 ---
 ## はじめに
 予選に通過し，本選に行きました．  

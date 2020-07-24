@@ -2,7 +2,6 @@
 title: "SuperCon2019 予選 参加記"
 date: 2019-06-29T13:27:19+09:00
 tags: ["SuperCon2019","Qual"]
-draft: false
 ---
 ## はじめに
 SuperCon2019予選に参加しました．  
