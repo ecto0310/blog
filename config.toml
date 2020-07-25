@@ -10,9 +10,6 @@ hasCJKLanguage = true
 
 enableRobotsTXT = true
 
-# Google Analytics
-#googleAnalytics = "UA-123-45"
-
 [markup.highlight]
 codeFences = true
 noClasses = false
@@ -39,6 +36,11 @@ darkTheme = "vs2015"
 [params.nav]
 showCategories = false       # /categories/
 showTags = true             # /tags/
+
+
+[[params.nav.custom]]
+title = "Profile"
+url = "/profile/"
 
 [[params.nav.custom]]
 title = "Twitter"
