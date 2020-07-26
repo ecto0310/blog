@@ -4,16 +4,19 @@ date: 2020-07-25T18:09:01+09:00
 tags: []
 ---
 ## About me
+
 Name : ecto0310  
 Age : 17  
 Birthday : 2003-03-10  
 
 ## Competitive programming
+
 AtCoder : [ecto0310](https://atcoder.jp/users/ecto0310) (<font color="#00C0C0">■1211</font>[Highest:<font color="#00C0C0">■1432</font>])  
 Codeforces : [ecto0310](https://codeforces.com/profile/ecto0310) (<font color="#0000cc">■1693</font>)  
 TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#616BD5">■1401</font>, MM <font color="#2D7E2D">■1142</font>)  
 
 ## Achievement
+
 - 日本情報オリンピック(JOI)  
   - 第19回 (2019/2020)  
     - 予選 Aランク (優秀賞)  
@@ -84,5 +87,3 @@ TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font col
 [<i class="fab fa-steam"></i> Steam](https://steamcommunity.com/id/ecto0310/)  
 [<i class="fab fa-github"></i> GitHub](https://github.com/ecto0310)  
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/ecto0310)  
-
-

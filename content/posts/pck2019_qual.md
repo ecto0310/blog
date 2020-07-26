@@ -4,19 +4,23 @@ date: 2019-09-25T15:01:41+09:00
 tags: ["PCK2019","Qual"]
 ---
 ## はじめに
+
 プログラミング部門の予選に参加しました．
 相方はSuperCon2019に引き続き副部長です．
 
 ## 競技前
+
 13:30開始なのに12:45まで授業でHRが終わったのは13:00過ぎでお昼を速攻で食べました．  
 もう少しゆっくりお昼を食べさせてほしいです．  
 この時忘れ物に気が付きました．家に蟻本を忘れました．  
 致命的です．  
 
 ## 競技中
-![](/images/pck2019_qual_submitlist.jpg)
+
+![Submit list](/images/pck2019_qual_submitlist.jpg)
 
 ### 1問目 柴犬の数
+
 去年はFAが取れず悔しかったので今年こそはと思いFAを狙いに行きました．  
 提出をしたら提出IDが1でACが出てFAが取れたと確信してとても喜びました．  
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">初の正解チームは 芝浦工業大学柏高等学校 P008 「TLE」 チームです。<br>わずか34秒で正解しました！ <a href="https://twitter.com/hashtag/pckoushien?src=hash&amp;ref_src=twsrc%5Etfw">#pckoushien</a> <a href="https://twitter.com/hashtag/u_aizu?src=hash&amp;ref_src=twsrc%5Etfw">#u_aizu</a></p>&mdash; パソコン甲子園ツイッター班 (@pc_koshien) <a href="https://twitter.com/pc_koshien/status/1172730137642553344?ref_src=twsrc%5Etfw">September 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -41,9 +45,11 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
 ### 2問目 アスキー文字
+
 大文字のアスキーコードが65~90なのにif文を60~99で分岐を書いてしまいWAを出しました．  
 通るだろうと思って3問目時終わった後に確認したらWAになってて絶望的な気持ちになりました．  
 
@@ -72,9 +78,11 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
 ### 3問目 2の累乗
+
 素直に書いて無事通って安心しました．  
 
 <details><summary>解法</summary>
@@ -100,15 +108,17 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
 ### 4問目 集会所
+
 最小の時間を出力しなければならないのに，集会所の場所を出力してWAを出しました．  
 誤読してサンプル通るのやめて欲しいです．  
 
 <details><summary>解法</summary>
 ソートして西の端と東の端の平均の座標が集会所の場所です．  
-西端，東端それぞれからかかる時間を求めて大きい方を出力します．    
+西端，東端それぞれからかかる時間を求めて大きい方を出力します．  
 </details>
 
 <details><summary>コード(00:24:36 1WA)</summary>
@@ -132,9 +142,11 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
 ### 5問目 ねこのあな
+
 穴の中に居ない状態から出てくる可能性が有るのを忘れててWAを出しました．  
 こうゆうところでWAを出すのはほんと良くないです．  
 
@@ -189,9 +201,11 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
 ### 6問目 床
+
 なんか素直に実装しても通りそうでしたが良いのか何か簡単な方法が有るのかと思ってとても悩みました．  
 悩んでたせいで無駄に時間を使いました．  
 
@@ -260,9 +274,11 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
 ### 7問目 アカベコ20
+
 128bit整数を使ったり謎な事をして2WAです．  
 
 <details><summary>解法</summary>
@@ -302,23 +318,28 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
 ### 9問目 天空の城ツルガ
+
 何も分かりません．  
 幾何は無理です．  
 
 ### 10問目 トーナメントの記録
+
 サンプルだけ何故か通るコードを出しました．  
 勿論WAです．  
 
 ## 競技後
+
 7完5WA，ペナルティの数的に地域枠も無理そうな結果でした．  
 順位表凍結時で31位でそこから何も通していないので35位ぐらいかなと思いました．  
 相方にほぼ確実に落ちたことを報告しました．  
 とても悔しく，今年こそは本選に行きたかったので泣いていました．  
 
 ## 結果
+
 発表の日は落ちたことを察していたので気にせずに寝ていました．  
 起きたら14時過ぎで，Twitterを開いたらHideさんからリプライが来ていて内容を見て最初嫌がらせか???って思いました．(ほんとごめんなさい)  
 ページを見たらほんとに通っててとても驚きました．  

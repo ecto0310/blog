@@ -4,10 +4,12 @@ date: 2020-02-09T23:59:44+09:00
 tags: ["JOI2019","Final"]
 ---
 ## はじめに
+
 JOIの本選に参加しました．  
 [予選参加記](../joi2019_qual)
 
 ## 1日目 (12/8)
+
 学校が終わり，去年同様につくばに向かいました．  
 15:20に会場に到着し，プラクティスの時間では去年は420点だったので，今年は満点をちゃんと取るぞと意気込んで望み，1時間弱で満点を取れました．  
 夕食会では若干の人と話て独房に行きました．  
@@ -16,24 +18,27 @@ JOIの本選に参加しました．
 一応6:00にアラームをかけてから寝ました．  
 
 ## 2日目 (12/9)
+
 6:00にアラームをかけましたが，起きたのは4:30でした．  
 寒くて全くねれず，2時間睡眠です．  
 去年とほぼ同じ朝食を食べ，集合時間まで暇を潰して会場にバスで行きました．  
 高校最後のJOIになるかもしれないと思い緊張しました．
 
 ## 競技中
+
 1問目  
-![](/images/joi2019_final_submitlist_1.jpg)  
+![Submit list 1](/images/joi2019_final_submitlist_1.jpg)  
 2問目  
-![](/images/joi2019_final_submitlist_2.jpg)  
+![Submit list 2](/images/joi2019_final_submitlist_2.jpg)  
 3問目  
-![](/images/joi2019_final_submitlist_3.jpg)  
+![Submit list 3](/images/joi2019_final_submitlist_3.jpg)  
 4問目  
-![](/images/joi2019_final_submitlist_4.jpg)  
+![Submit list 4](/images/joi2019_final_submitlist_4.jpg)  
 5問目  
-![](/images/joi2019_final_submitlist_5.jpg)  
+![Submit list 5](/images/joi2019_final_submitlist_5.jpg)  
 
 ### 1問目 長いだけのネクタイ
+
 問題を読むのに若干苦戦し，理解したら直ぐ解法が生えたので実装しました．  
 
 <details><summary>解法</summary>
@@ -82,9 +87,11 @@ int main()
     cout << ans[i] << " \n"[i == n];
 }
 ```
+
 </details>
 
 ### 2問目 JJOOII 2
+
 バグらせてバグらせてなかなかAC出来なくてしんどかったです．  
 
 <details><summary>解法</summary>
@@ -166,9 +173,11 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
 ### 3問目 スタンプラリー 3
+
 取り合えず部分点回収をしてから満点解法を目指しましたが若干方針がずれてました．  
 
 <details><summary>解法(小課題1,2)</summary>
@@ -217,9 +226,11 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
 ### 4問目 オリンピックバス
+
 取り合えず脳死で全通り試して部分点を回収しました．  
 
 <details><summary>解法(小課題1)</summary>
@@ -316,9 +327,11 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
-### 5問目 火事 
+### 5問目 火事
+
 セグ木が書けなくて辛かったです．  
 
 <details><summary>解法(小課題1)</summary>
@@ -373,13 +386,16 @@ int main()
   return 0;
 }
 ```
+
 </details>
 
 ## 競技後
+
 明らかに問題が簡単だったので落ちたのを確信しました．  
 今年こそは春に行くのが目標だったのでとても辛いです．  
 帰りにたんちゃんさんとつくばのゲーセンでチュウニズムを数クレしました．  
 今年でJOIは最後でしたが，全力を出せてよかったと思います．  
 
 ## 結果
+
 予想通りボーダーが高くBランクで本選落ちでした．  
