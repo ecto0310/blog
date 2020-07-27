@@ -1,4 +1,4 @@
-baseURL = "https://ecto0310.jp"
+baseURL = "https://blog.ecto0310.jp"
 title = "ecto0310's blog"
 theme = "hugo-notepadium"
 copyright = "©2020 Notepadium."
