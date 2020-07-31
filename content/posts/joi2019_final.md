@@ -27,15 +27,15 @@ JOIの本選に参加しました．
 ## 競技中
 
 1問目  
-![Submit list 1](/images/joi2019_final_submitlist_1.jpg)  
+![Submit list 1](submitlist_1.jpg)  
 2問目  
-![Submit list 2](/images/joi2019_final_submitlist_2.jpg)  
+![Submit list 2](submitlist_2.jpg)  
 3問目  
-![Submit list 3](/images/joi2019_final_submitlist_3.jpg)  
+![Submit list 3](submitlist_3.jpg)  
 4問目  
-![Submit list 4](/images/joi2019_final_submitlist_4.jpg)  
+![Submit list 4](submitlist_4.jpg)  
 5問目  
-![Submit list 5](/images/joi2019_final_submitlist_5.jpg)  
+![Submit list 5](submitlist_5.jpg)  
 
 ### 1問目 長いだけのネクタイ
 

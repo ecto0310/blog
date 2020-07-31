@@ -28,13 +28,13 @@ cd CORPSE
 corpse.bat
 ```
 
-![Disk edit](/images/corpse_pc98_emu_diskedit.jpg)
+![Disk edit](diskedit.jpg)
 
 ## エミュレーターの設定
 
 T98-NEXTを起動してDISKのHD DRIVEでさっき弄った起動イメージを選択するだけです．  
 
-![Emu config](/images/corpse_pc98_emu_emuconfig.jpg)
+![Emu config](emuconfig.jpg)
 
 ## 起動
 
@@ -45,4 +45,4 @@ T98-NEXTを起動してDISKのHD DRIVEでさっき弄った起動イメージを
 run
 ```
 
-![Boot](/images/corpse_pc98_emu_boot.jpg)
+![Boot](boot.jpg)

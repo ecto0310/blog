@@ -19,7 +19,7 @@ tags: ["PCK2019","Final"]
 
 ## 競技中
 
-![Submit list](/images/pck2019_final_submitlist.jpg)
+![Submit list](submitlist.jpg)
 
 ### 1問目 目盛りのないストップウォッチ
 

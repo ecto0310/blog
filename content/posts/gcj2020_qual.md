@@ -5,12 +5,12 @@ tags: ["GCJ2020","Qual"]
 ---
 ## はじめに
 
-GCJ2020 Qualに参加しました．  
+Google Code Jam 2020 Qualに参加しました．  
 Qualは順位関係なく30点以上取れば通過できるので気楽に参加できます．  
 
 ## 競技中
 
-![Submit list](/images/gcj2020_qual_submitlist.jpg)
+![Submit list](submitlist.jpg)
 
 ### 1問目 Vestigium
 

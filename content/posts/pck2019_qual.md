@@ -5,7 +5,7 @@ tags: ["PCK2019","Qual"]
 ---
 ## はじめに
 
-プログラミング部門の予選に参加しました．
+パソコン甲子園 プログラミング部門の予選に参加しました．
 相方はSuperCon2019に引き続き副部長です．
 
 ## 競技前
@@ -17,7 +17,7 @@ tags: ["PCK2019","Qual"]
 
 ## 競技中
 
-![Submit list](/images/pck2019_qual_submitlist.jpg)
+![Submit list](submitlist.jpg)
 
 ### 1問目 柴犬の数
 
