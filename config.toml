@@ -51,3 +51,7 @@ url = "https://twitter.com/ecto0310"
 [[params.nav.custom]]
 title = "GithHub"
 url = "https://github.com/ecto0310"
+
+[params.assets]
+js = ["js/codeblock.js"]
+css = ["css/codeblock.css"]
