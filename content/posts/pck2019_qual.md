@@ -23,7 +23,7 @@ tags: ["PCK2019","Qual"]
 
 去年はFAが取れず悔しかったので今年こそはと思いFAを狙いに行きました．  
 提出をしたら提出IDが1でACが出てFAが取れたと確信してとても喜びました．  
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">初の正解チームは 芝浦工業大学柏高等学校 P008 「TLE」 チームです。<br>わずか34秒で正解しました！ <a href="https://twitter.com/hashtag/pckoushien?src=hash&amp;ref_src=twsrc%5Etfw">#pckoushien</a> <a href="https://twitter.com/hashtag/u_aizu?src=hash&amp;ref_src=twsrc%5Etfw">#u_aizu</a></p>&mdash; パソコン甲子園ツイッター班 (@pc_koshien) <a href="https://twitter.com/pc_koshien/status/1172730137642553344?ref_src=twsrc%5Etfw">September 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">初の正解チームは 芝浦工業大学柏高等学校 P008 「TLE」 チームです。<br>わずか34秒で正解しました！ <a href="https://twitter.com/hashtag/pckoushien?src=hash&amp;ref_src=twsrc%5Etfw">#pckoushien</a> <a href="https://twitter.com/hashtag/u_aizu?src=hash&amp;ref_src=twsrc%5Etfw">#u_aizu</a></p>&mdash; パソコン甲子園ツイッター班 (@pc_koshien) <a href="https://twitter.com/pc_koshien/status/1172730137642553344?ref_src=twsrc%5Etfw">September 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <details><summary>解法</summary>
 入力を受け取って全て足して出力します。  
