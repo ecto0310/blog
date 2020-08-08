@@ -23,6 +23,10 @@ Qualは順位関係なく30点以上取れば通過できるので気楽に参�
 
 <details><summary>コード(04:04:17)</summary>
 
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 7/7   |
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -90,6 +94,11 @@ int main()
 
 <details><summary>コード(04:17:03)</summary>
 
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 5/5   |
+| 2    | AC        | 11/11 |
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -139,6 +148,11 @@ int main()
 </details>
 
 <details><summary>コード(04:35:36)</summary>
+
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 7/7   |
+| 2    | AC        | 12/12 |
 
 ```cpp
 #include <bits/stdc++.h>
@@ -216,6 +230,12 @@ int main()
 </details>
 
 <details><summary>コード(05:06:11[1点])</summary>
+
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 1/1   |
+| 2    | RE        | 0/9   |
+| 3    | Skip      | 0/16  |
 
 ```cpp
 #include <bits/stdc++.h>

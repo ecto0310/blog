@@ -45,7 +45,13 @@ JOIの本選に参加しました．
 前計算で左合わせと右合わせで差の累積maxを取ってから計算をします．  
 </details>
 
-<details><summary>コード(00:31:59)</summary>
+<details><summary>コード</summary>
+
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 1/1   |
+| 2    | AC        | 8/8   |
+| 3    | AC        | 91/91 |
 
 ```cpp
 #include <bits/stdc++.h>
@@ -98,7 +104,13 @@ int main()
 尺取りで特定の位置より左のJを使う時と特定のOをより右を使う時の最小の手順3の回数を求めておき，OをK個含む長さを決め打ち全部試します．  
 </details>
 
-<details><summary>コード(01:41:47)</summary>
+<details><summary>コード</summary>
+
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 1/1   |
+| 2    | AC        | 12/12 |
+| 3    | AC        | 87/87 |
 
 ```cpp
 #include <bits/stdc++.h>
@@ -184,7 +196,14 @@ int main()
 DFSで左右を何処まで使ったときに何個回収できてるか試します．  
 </details>
 
-<details><summary>コード(02:22:55[15点])</summary>
+<details><summary>コード[15点]</summary>
+
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 5/5   |
+| 2    | AC        | 10/10 |
+| 3    | TLE       | 0/10  |
+| 4    | TLE       | 0/75  |
 
 ```cpp
 #include <bits/stdc++.h>
@@ -237,7 +256,14 @@ int main()
 脳死でダイクストラをします．  
 </details>
 
-<details><summary>コード(02:50:12[5点])</summary>
+<details><summary>コード[5点]</summary>
+
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 5/5   |
+| 2    | TLE       | 0/11  |
+| 3    | TLE       | 0/21  |
+| 4    | TLE       | 0/63  |
 
 ```cpp
 #include <bits/stdc++.h>
@@ -338,7 +364,15 @@ int main()
 脳死でシミュレーションします．  
 </details>
 
-<details><summary>コード(03:10:44[1点])</summary>
+<details><summary>コード[1点]</summary>
+
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 1/1   |
+| 2    | TLE       | 0/6   |
+| 3    | TLE       | 0/7   |
+| 4    | TLE       | 0/6   |
+| 5    | TLE       | 0/80  |
 
 ```cpp
 #include <bits/stdc++.h>

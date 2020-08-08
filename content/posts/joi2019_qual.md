@@ -26,7 +26,7 @@ tags: ["JOI2019","Qual"]
 0,90,180,270度回転させた場合それぞれで不一致数を数えてそれに回転にかかる時間を足して最も小さい物が答えです．  
 </details>
 
-<details><summary>コード(00:09:50)</summary>
+<details><summary>コード</summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -70,7 +70,7 @@ int main()
 東端まで移動する時間と東端のいちごが収穫出来る時間の大きい方を取り，西に進みながら隣の苺からの移動時間と収穫可能時間の大きい方を取り続けます．  
 </details>
 
-<details><summary>コード(00:17:14)</summary>
+<details><summary>コード</summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -104,7 +104,7 @@ int main()
 なので，既に探索済みの物はNに出来るか覚えておき，桁和を1回足したものがNに出来る数であれば答えに1加算します．  
 </details>
 
-<details><summary>コード(00:32:17)</summary>
+<details><summary>コード</summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -168,7 +168,12 @@ dp[i][j]:= 最後にjを押したときのMで割った余りがiの数の最小
 するとmin(dp[R][i],0<=i<=9)が答えです．  
 </details>
 
-<details><summary>コード(00:56:26 1WA)</summary>
+<details><summary>コード</summary>
+
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 30/30 |
+| 2    | AC        | 70/70 |
 
 ```cpp
 #include <bits/stdc++.h>
@@ -228,7 +233,13 @@ int main()
 ?を全てRPSの何れかに置き換えた物を全て試します。
 </details>
 
-<details><summary>コード(01:57:44[20点])</summary>
+<details><summary>コード[20点]</summary>
+
+|  ID  |  Verdict  | Score |
+| ---- | --------- | ----- |
+| 1    | AC        | 20/20 |
+| 2    | TLE       | 0/20  |
+| 3    | RE        | 0/60  |
 
 ```cpp
 #include <bits/stdc++.h>
