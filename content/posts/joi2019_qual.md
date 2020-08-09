@@ -170,7 +170,7 @@ dp[i][j]:= 最後にjを押したときのMで割った余りがiの数の最小
 
 <details><summary>コード</summary>
 
-|  ID  |  Verdict  | Score |
+| ID   | Verdict   | Score |
 | ---- | --------- | ----- |
 | 1    | AC        | 30/30 |
 | 2    | AC        | 70/70 |
@@ -235,7 +235,7 @@ int main()
 
 <details><summary>コード[20点]</summary>
 
-|  ID  |  Verdict  | Score |
+| ID   | Verdict   | Score |
 | ---- | --------- | ----- |
 | 1    | AC        | 20/20 |
 | 2    | TLE       | 0/20  |

@@ -47,7 +47,7 @@ JOIの本選に参加しました．
 
 <details><summary>コード</summary>
 
-|  ID  |  Verdict  | Score |
+| ID   | Verdict   | Score |
 | ---- | --------- | ----- |
 | 1    | AC        | 1/1   |
 | 2    | AC        | 8/8   |
@@ -106,7 +106,7 @@ int main()
 
 <details><summary>コード</summary>
 
-|  ID  |  Verdict  | Score |
+| ID   | Verdict   | Score |
 | ---- | --------- | ----- |
 | 1    | AC        | 1/1   |
 | 2    | AC        | 12/12 |
@@ -198,7 +198,7 @@ DFSで左右を何処まで使ったときに何個回収できてるか試し�
 
 <details><summary>コード[15点]</summary>
 
-|  ID  |  Verdict  | Score |
+| ID   | Verdict   | Score |
 | ---- | --------- | ----- |
 | 1    | AC        | 5/5   |
 | 2    | AC        | 10/10 |
@@ -258,7 +258,7 @@ int main()
 
 <details><summary>コード[5点]</summary>
 
-|  ID  |  Verdict  | Score |
+| ID   | Verdict   | Score |
 | ---- | --------- | ----- |
 | 1    | AC        | 5/5   |
 | 2    | TLE       | 0/11  |
@@ -366,7 +366,7 @@ int main()
 
 <details><summary>コード[1点]</summary>
 
-|  ID  |  Verdict  | Score |
+| ID   | Verdict   | Score |
 | ---- | --------- | ----- |
 | 1    | AC        | 1/1   |
 | 2    | TLE       | 0/6   |
