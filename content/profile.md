@@ -13,7 +13,7 @@ Birthday : 2003-03-10
 
 AtCoder : [ecto0310](https://atcoder.jp/users/ecto0310) (<font color="#00C0C0">■1236</font>[Highest:<font color="#00C0C0">■1432</font>])  
 Codeforces : [ecto0310](https://codeforces.com/profile/ecto0310) (<font color="#0000cc">■1693</font>)  
-TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#616BD5">■1401</font>, MM <font color="#2D7E2D">■1169</font>)  
+TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#00A900">■999</font>[Highest:<font color="#616BD5">■1401</font>], MM <font color="#00A900">■1162</font>[Highest:<font color="#616BD5">■1240</font>])  
 
 ## Achievement
 
