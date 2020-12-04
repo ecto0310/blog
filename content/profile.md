@@ -1,6 +1,6 @@
 ---
-title: ""
-date: 2020-07-25T18:09:01+09:00
+title: "Profile"
+date: 2020-12-04T18:00:01+09:00
 tags: []
 ---
 ## About me
@@ -13,9 +13,28 @@ Birthday : 2003-03-10
 
 AtCoder : [ecto0310](https://atcoder.jp/users/ecto0310) (<font color="#00C0C0">■1236</font>[Highest:<font color="#00C0C0">■1432</font>])  
 Codeforces : [ecto0310](https://codeforces.com/profile/ecto0310) (<font color="#0000cc">■1693</font>)  
-TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#00A900">■999</font>[Highest:<font color="#616BD5">■1401</font>], MM <font color="#00A900">■1162</font>[Highest:<font color="#616BD5">■1240</font>])  
+TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#00A900">■999</font>[Highest:<font color="#616BD5">■1401</font>], MM <font color="#00A900">■906</font>[Highest:<font color="#616BD5">■1240</font>])  
 
-## Achievement
+## Links
+
+[<i class="fab fa-amazon"></i> Amazon Wishlist](https://www.amazon.jp/hz/wishlist/ls/RQUF9T44I2X8?ref_=wl_share)  
+[<i class="fab fa-steam"></i> Steam](https://steamcommunity.com/id/ecto0310/)  
+[<i class="fab fa-github"></i> GitHub](https://github.com/ecto0310)  
+[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/ecto0310)  
+
+## Achievements
+
+- 全国中学高校WEBコンテスト  
+  - 第20回 中学生の部 [制作ページ](http://kansen-manabu.jp/)  
+    プラチナ賞  
+    JPRS特別賞  
+
+- 毎日パソコン入力コンクール  
+  - 第17回秋季大会  
+    - 第1部　ホームポジション応用  
+      1位 632点 (526-0+106) (3段)  
+    - 第2部　ローマ字  
+      1位 455点 (379-0+76) (4段)  
 
 - 日本情報オリンピック(JOI)  
   - 第19回 (2019/2020)  
@@ -58,7 +77,7 @@ TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font col
 - Supercomputing Contest  
   - 2019  
     - 予選  
-      通過  
+      本選出場  
     - 本選  
       CUDA kernel error  
 
@@ -66,24 +85,7 @@ TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font col
   - 第3回  
     上級 82点/100  
 
-- 毎日パソコン入力コンクール  
-  - 第17回秋季大会  
-    - 第1部　ホームポジション応用  
-      1位 632点 (526-0+106) (3段)  
-    - 第2部　ローマ字  
-      1位 455点 (379-0+76) (4段)  
-
-- 全国中学高校WEBコンテスト  
-  - 第20回 中学生の部 [制作ページ](http://kansen-manabu.jp/)  
-    プラチナ賞  
-    JPRS特別賞  
+## Qualification
 
 - P検  
   2級  
-
-## Other
-
-[<i class="fab fa-amazon"></i> Amazon Wishlist](https://www.amazon.jp/hz/wishlist/ls/RQUF9T44I2X8?ref_=wl_share)  
-[<i class="fab fa-steam"></i> Steam](https://steamcommunity.com/id/ecto0310/)  
-[<i class="fab fa-github"></i> GitHub](https://github.com/ecto0310)  
-[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/ecto0310)  
