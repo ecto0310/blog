@@ -7,8 +7,6 @@ tags: ["TCO2020"]
 
 TCO20 Eastern Asia Regional Eventに参加しました．  
 「TCO20のStage2で頑張ったね，招待するよ」的なメールが来てたので参加しました．  
-<!-- この記事では競技中の事を書きます．  
-[参加記(2)](../tco20_eastern_asia_2)   -->
 
 ## 競技中
 
