@@ -1,6 +1,6 @@
 ---
 title: "Profile"
-date: 2020-12-04T18:00:01+09:00
+date: 2021-04-01T23:00:00+09:00
 tags: []
 ---
 ## About me
@@ -11,9 +11,9 @@ Birthday : 2003-03-10
 
 ## Competitive programming
 
-AtCoder : [ecto0310](https://atcoder.jp/users/ecto0310) (<font color="#00C0C0">■1236</font>[Highest:<font color="#00C0C0">■1432</font>])  
-Codeforces : [ecto0310](https://codeforces.com/profile/ecto0310) (<font color="#0000cc">■1693</font>)  
-TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#00A900">■999</font>[Highest:<font color="#616BD5">■1401</font>], MM <font color="#00A900">■906</font>[Highest:<font color="#616BD5">■1240</font>])  
+AtCoder : [ecto0310](https://atcoder.jp/users/ecto0310) (<font color="#00C0C0">■1238</font>[Highest:<font color="#00C0C0">■1432</font>])  
+Codeforces : [ecto0310](https://codeforces.com/profile/ecto0310) (<font color="#03A89E">■1589</font>[Highest:<font color="#0000cc">■1693</font>])  
+TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#00A900">■1080</font>[Highest:<font color="#616BD5">■1401</font>], MM <font color="#555555">■892</font>[Highest:<font color="#616BD5">■1240</font>])  
 
 ## Links
 
@@ -37,6 +37,10 @@ TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font col
       1位 455点 (379-0+76) (4段)  
 
 - 日本情報オリンピック(JOI)  
+  - 第20回 (2020/2021)  
+    - 予選 Aランク (優秀賞)
+      - 2次予選  
+        192点/500  
   - 第19回 (2019/2020)  
     - 予選 Aランク (優秀賞)  
       - 1次予選第1回  
