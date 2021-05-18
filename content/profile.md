@@ -91,5 +91,7 @@ TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font col
 
 ## Qualification
 
+- 基本情報技術者
+
 - P検  
   2級  
