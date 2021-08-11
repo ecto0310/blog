@@ -25,7 +25,7 @@ TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font col
 ## Achievements
 
 - 全国中学高校WEBコンテスト  
-  - 第20回 中学生の部 [制作ページ](http://kansen-manabu.jp/)  
+  - 第20回 中学生の部  
     プラチナ賞  
     JPRS特別賞  
 
