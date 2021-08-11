@@ -1,19 +1,19 @@
 ---
 title: "Profile"
-date: 2021-04-01T23:00:00+09:00
+date: 2021-08-11T23:00:00+09:00
 tags: []
 ---
 ## About me
 
 Name : ecto0310  
-Age : 17  
+Age : 18  
 Birthday : 2003-03-10  
 
 ## Competitive programming
 
-AtCoder : [ecto0310](https://atcoder.jp/users/ecto0310) (<font color="#00C0C0">■1238</font>[Highest:<font color="#00C0C0">■1432</font>])  
+AtCoder : [ecto0310](https://atcoder.jp/users/ecto0310) (<font color="#00C0C0">■1288</font>[Highest:<font color="#00C0C0">■1432</font>])  
 Codeforces : [ecto0310](https://codeforces.com/profile/ecto0310) (<font color="#03A89E">■1589</font>[Highest:<font color="#0000cc">■1693</font>])  
-TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#00A900">■1080</font>[Highest:<font color="#616BD5">■1401</font>], MM <font color="#555555">■892</font>[Highest:<font color="#616BD5">■1240</font>])  
+TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#00A900">■1175</font>[Highest:<font color="#616BD5">■1401</font>], MM <font color="#555555">■892</font>[Highest:<font color="#616BD5">■1240</font>])  
 
 ## Links
 
