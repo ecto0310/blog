@@ -93,23 +93,25 @@ Robocraftのクランを犬小屋からEtherに移動しました。
 
 化学グランプリを受験しました。  
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">化グラ2020自己採点<br>1:10/23<br>2:6/19<br>3:15/28<br>4:7/17<br>Σ:38/87<br>まー去年に比べて成長したでしょ <a href="https://t.co/f4pTfnz4ee">pic.twitter.com/f4pTfnz4ee</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1320265543442599937?ref_src=twsrc%5Etfw">October 25, 2020</a></blockquote>  
-<blockquote class="twitter-tweet" data-theme="dark"  data-cards="hidden">><p lang="ja" dir="ltr">今年の化グラの結果さん...(去年よりは成長した <a href="https://t.co/QmcwdTucqK">https://t.co/QmcwdTucqK</a> <a href="https://t.co/hSS8kZTOFA">pic.twitter.com/hSS8kZTOFA</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1327529994243821570?ref_src=twsrc%5Etfw">November 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"  data-cards="hidden">><p lang="ja" dir="ltr">今年の化グラの結果さん...(去年よりは成長した <a href="https://t.co/QmcwdTucqK">https://t.co/QmcwdTucqK</a> <a href="https://t.co/hSS8kZTOFA">pic.twitter.com/hSS8kZTOFA</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1327529994243821570?ref_src=twsrc%5Etfw">November 14, 2020</a></blockquote>
 
 ## 11月
 
 ペタマックスを食べました。  
-<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">今晩はペヤング ペタマックス食べるぞい(多分2食に別れる <a href="https://t.co/eefZVyldAt">pic.twitter.com/eefZVyldAt</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1323869542506921985?ref_src=twsrc%5Etfw">November 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">今晩はペヤング ペタマックス食べるぞい(多分2食に別れる <a href="https://t.co/eefZVyldAt">pic.twitter.com/eefZVyldAt</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1323869542506921985?ref_src=twsrc%5Etfw">November 4, 2020</a></blockquote>
 
 ## 12月
 
 無事大学に合格しました。  
-<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">無事に大学合格しました!!!!!! <a href="https://t.co/944j4eUfPf">pic.twitter.com/944j4eUfPf</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1336164733792108544?ref_src=twsrc%5Etfw">December 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">無事に大学合格しました!!!!!! <a href="https://t.co/944j4eUfPf">pic.twitter.com/944j4eUfPf</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1336164733792108544?ref_src=twsrc%5Etfw">December 8, 2020</a></blockquote>
 
 選抜対象として出れる科学オリンピックの最後は言語学オリンピックでしたが惨敗しました。  
-<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">JOL、賞取れず... <a href="https://t.co/SJ8Z7dFZnM">pic.twitter.com/SJ8Z7dFZnM</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1343753570756116480?ref_src=twsrc%5Etfw">December 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">JOL、賞取れず... <a href="https://t.co/SJ8Z7dFZnM">pic.twitter.com/SJ8Z7dFZnM</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1343753570756116480?ref_src=twsrc%5Etfw">December 29, 2020</a></blockquote>
 
 ## 終わりに
 
 2020年は外出が出来なかったり、人と塩化する機会が失われたりであんまり何も出来なかった年に感じます。  
 早く収束して欲しいですね。  
 2021年も宜しくおねがいします。  
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
