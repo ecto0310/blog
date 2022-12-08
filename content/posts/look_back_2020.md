@@ -51,7 +51,7 @@ JOI2019本選に参加しました。
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">はむ買っちゃった、まだ生後18日目 <a href="https://t.co/2zHjDWMgbK">pic.twitter.com/2zHjDWMgbK</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1249990813506891776?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote>
 
 ハムスターを買ったのでダイソーの100円ゲームシリーズを久しぶりにやりました。
-<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">ハムスターを飼ったので，久しぶりにはむはむこはむとか言う結構古いゲームを久しぶりにやった(動作環境見て笑っちゃった) <a href="https://t.co/4ftQfYoYOB">pic.twitter.com/4ftQfYoYOB</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1250081235222712321?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote>
+<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">ハムスターを飼ったので、久しぶりにはむはむこはむとか言う結構古いゲームを久しぶりにやった(動作環境見て笑っちゃった) <a href="https://t.co/4ftQfYoYOB">pic.twitter.com/4ftQfYoYOB</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1250081235222712321?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote>
 
 ## 5月
 

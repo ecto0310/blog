@@ -5,7 +5,7 @@ tags: ["競プロ"]
 ---
 ## はじめに
 
-第32回TechFUL Coding Battleに参加しました．
+第32回TechFUL Coding Battleに参加しました。
 第30,31回と出ていなかったので3ヶ月ぶりのTCBです。
 
 ## 競技中
