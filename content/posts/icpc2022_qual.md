@@ -1,7 +1,7 @@
 ---
 title: "ICPC Yokohama Regional 2022 国内予選 参加記"
 date: 2022-07-16T23:03:59+09:00
-tags: ["ICPC","Qual"]
+tags: ["競プロ"]
 ---
 ## はじめに
 
