@@ -88,7 +88,7 @@ JOL2019を受験しました。
 
 コミックマーケット97に行きました。
 勿論夕食はマクドナルドに行きました。
-<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">毎回恒例ですがコミケセット食べるぜ <a href="https://t.co/PGRtPKdu4Z">pic.twitter.com/PGRtPKdu4Z</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1211177691774214147?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">毎回恒例ですがコミケセット食べるぜ <a href="https://t.co/PGRtPKdu4Z">pic.twitter.com/PGRtPKdu4Z</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1211177691774214147?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote>
 
 ## 終わりに
 
