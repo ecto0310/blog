@@ -28,7 +28,7 @@ chokudaiさんと写真を撮りました。
 ## 6月
 
 SuperCon2019 予選を通過しました。
-[参加記](../supercon2019_qual)
+[参加記](/posts/supercon2019_qual)
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="und" dir="ltr">!!!!!!! <a href="https://t.co/ay3cwfRxDu">pic.twitter.com/ay3cwfRxDu</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1141317177238147072?ref_src=twsrc%5Etfw">June 19, 2019</a></blockquote>
 
 オーストラリア研修に行きました。
@@ -51,13 +51,13 @@ SuperCon2019 予選を通過しました。
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">欲張りセット食べます <a href="https://t.co/eAOj4NWLfG">pic.twitter.com/eAOj4NWLfG</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1159711493400621056?ref_src=twsrc%5Etfw">August 9, 2019</a></blockquote>
 
 SuperCon2019 本選に参加しました。
-[参加記](../supercon2019_final)
+[参加記](/posts/supercon2019_final)
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">対戦よろしくお願いします <a href="https://t.co/wiVhCDFfuY">pic.twitter.com/wiVhCDFfuY</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1163255345617100802?ref_src=twsrc%5Etfw">August 19, 2019</a></blockquote>
 
 ## 9月
 
 PCK2019 予選に参加しました。
-[参加記](../pck2019_qual)
+[参加記](/posts/pck2019_qual)
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">ところで、TLEを出してしまった((( <a href="https://t.co/FjIxs9Vdgs">pic.twitter.com/FjIxs9Vdgs</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1172779395099979778?ref_src=twsrc%5Etfw">September 14, 2019</a></blockquote>
 
 ## 10月
@@ -74,13 +74,13 @@ PCK2019 予選に参加しました。
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">I&#39;m at 小山工業高等専門学校 in 小山市, 栃木県 <a href="https://t.co/DkdutZr5Jo">https://t.co/DkdutZr5Jo</a> <a href="https://t.co/z6R9H4PAyE">pic.twitter.com/z6R9H4PAyE</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1190784423945371648?ref_src=twsrc%5Etfw">November 3, 2019</a></blockquote>
 
 PCK2019 本選に参加しました。
-[参加記](../pck2019_final_1)
+[参加記](/posts/pck2019_final_1)
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">ｳｯ.... <a href="https://t.co/pb6iL4K6SM">pic.twitter.com/pb6iL4K6SM</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1193396007767175168?ref_src=twsrc%5Etfw">November 10, 2019</a></blockquote>
 
 ## 12月
 
 JOI2019 予選に参加しました。
-[参加記](../joi2019_qual)
+[参加記](/posts/joi2019_qual)
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">JOI本選、今年も行きます、去年本選209点で落ちたので今年は春行けるように頑張ります <a href="https://t.co/7GV8dicOax">pic.twitter.com/7GV8dicOax</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1205023275140538368?ref_src=twsrc%5Etfw">December 12, 2019</a></blockquote>
 
 JOL2019を受験しました。

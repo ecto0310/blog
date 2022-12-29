@@ -1,12 +1,12 @@
 ---
-title: "ICPC Yokohama Regional 2022 国内予選 参加記"
+title: "ICPC Asia Yokohama Regional Contest 2022 国内予選 参加記"
 date: 2022-07-16T23:03:59+09:00
 tags: ["競プロ"]
 ---
 ## はじめに
 
-ICPC Yokohama Regional 2022 国内予選に参加しました。
-きょさん([@Kyo_s_s](https://twitter.com/Kyo_s_s))とフェンガーさん([@fenger0126](https://twitter.com/fenger0126))と`corbeau`というチーム名で参加しました。
+ICPC Asia Yokohama Regional Contest 2022 国内予選に参加しました。
+きょさん([@Kyo_s_s](https://twitter.com/Kyo_s_s))と(匿名希望)さんと`corbeau`というチーム名で参加しました。
 
 ## 競技前
 

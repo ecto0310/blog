@@ -37,7 +37,7 @@ VRCを始めました。
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">VRCをデスクトップモードで起動してみた <a href="https://t.co/yVxvhYUo8g">pic.twitter.com/yVxvhYUo8g</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1384493669219065856?ref_src=twsrc%5Etfw">April 20, 2021</a></blockquote>
 
 CPCTFに出ました。
-[記事](.//cpctf2021)
+[記事](/posts/cpctf2021)
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CPCTF?src=hash&amp;ref_src=twsrc%5Etfw">#CPCTF</a><br>53問解いて5,902.41点で6位した~~~&gt;&lt; <a href="https://t.co/7OHMLllHhD">pic.twitter.com/7OHMLllHhD</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1386271408234254339?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote>
 
 ## 5月
@@ -91,7 +91,7 @@ PCを購入しました。
 ## 11月
 
 ICPC2021国内予選に出ました。
-[記事](https://blog.ecto0310.jp/posts/icpc2021_qual/)
+[記事](/posts/icpc2021_qual)
 
 11月頭から週1でオフ会をしました。
 

@@ -77,7 +77,7 @@ iPhone 6を開けてバッテリーの交換をしました。
 ## 8月
 
 APIO 2020に参加しました。
-[参加記](../apio_2020_1)
+[参加記](/posts/apio_2020_1)
 
 ## 9月
 
@@ -85,7 +85,7 @@ APIO 2020に参加しました。
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden"><p lang="ja" dir="ltr">ｳｳｳｳｳｳｳ(受験生である事を実感させられた <a href="https://t.co/S8uuROl8tF">pic.twitter.com/S8uuROl8tF</a></p>&mdash; えくと (@ecto0310) <a href="https://twitter.com/ecto0310/status/1302108233956380672?ref_src=twsrc%5Etfw">September 5, 2020</a></blockquote>
 
 TCO20 Eastern Asia Regional Eventに参加しました。
-[参加記](../tco20_eastern_asia)
+[参加記](/posts/tco20_eastern_asia)
 
 ## 10月
 
