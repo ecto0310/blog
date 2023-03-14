@@ -37,42 +37,6 @@ ICPC Asia Yokohama Regional Contest 2022に参加しました。
 x1/3を押し続けてt秒までに等倍に戻ってこれるか判定をしながらx3を押し続け、x1/3を押す必要が無ければ極力押さないようにしてシミュレーションします。
 </details>
 
-<details><summary>コード</summary>
-
-```cpp
-#include <bits/stdc++.h>
-
-using namespace std;
-using i64 = int64_t;
-using ll = int64_t;
-
-int main() {
-  int n, k;
-  cin >> n >> k;
-  vector<pair<pair<i64, i64>, i64>> d(n);
-  for (i64 i = 0; i < n; i++) {
-    cin >> d[i].first.second >> d[i].first.first;
-    d[i].second = i;
-  }
-  sort(d.begin(), d.end());
-  vector<i64> ans(n, -1);
-  for (i64 i = 1; i <= 31; i++) {
-    i64 cnt = 0;
-    for (auto [d, ind] : d) {
-      if (ans[ind] == -1 && cnt < k && d.second <= i) {
-        cnt++;
-        ans[ind] = i;
-      }
-    }
-  }
-  for (i64 i : ans) {
-    cout << i << endl;
-  }
-}
-```
-
-</details>
-
 ## 当日
 
 6:30に起きて7:00少し前にロビーに行くと白米が無かったのできょさんと近くの松屋で朝ごはんを食べました。
