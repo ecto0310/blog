@@ -49,7 +49,7 @@ title = "Twitter"
 url = "https://twitter.com/ecto0310"
 
 [[params.nav.custom]]
-title = "GithHub"
+title = "GitHub"
 url = "https://github.com/ecto0310"
 
 [params.assets]
