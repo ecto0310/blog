@@ -7,14 +7,14 @@ tags: []
 ## About me
 
 Name : ecto0310
-Age : 20
+Age : 21
 Birthday : 2003-03-10
 
 ## Competitive programming
 
-AtCoder : [ecto0310](https://atcoder.jp/users/ecto0310) (<font color="#00C0C0">■1288</font>[Highest:<font color="#00C0C0">■1432</font>])  
+AtCoder : [ecto0310](https://atcoder.jp/users/ecto0310) (<font color="#00C0C0">■1329</font>[Highest:<font color="#00C0C0">■1432</font>])  
 Codeforces : [ecto0310](https://codeforces.com/profile/ecto0310) (<font color="#03A89E">■1589</font>[Highest:<font color="#0000cc">■1693</font>])  
-TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#00A900">■1175</font>[Highest:<font color="#616BD5">■1401</font>], MM <font color="#555555">■892</font>[Highest:<font color="#616BD5">■1240</font>])
+TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font color="#00A900">■1276</font>[Highest:<font color="#616BD5">■1401</font>], MM <font color="#555555">■922</font>[Highest:<font color="#616BD5">■1240</font>])
 
 ## Links
 
@@ -41,6 +41,14 @@ TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font col
 
 - 国際大学対抗プログラミングコンテスト(ICPC)
 
+  - 2024 年
+    - 国内予選
+      93 位
+  - 2023 年
+    - 国内予選
+      48 位
+    - アジア地区横浜大会
+      42 位
   - 2022 年
     - 国内予選
       56 位
@@ -108,9 +116,16 @@ TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font col
 
 ## Qualification
 
-- 基本情報技術者
+- データベーススペシャリスト試験
+
+- ネットワークスペシャリスト試験
+
+- 第二種電気工事士
 
 - 応用情報技術者
 
-- P 検
-  2 級
+- 普通自動車第一種運転免許
+
+- 基本情報技術者
+
+- P 検 2 級
