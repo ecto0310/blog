@@ -6,9 +6,9 @@ tags: []
 
 ## About me
 
-Name : ecto0310
-Age : 21
-Birthday : 2003-03-10
+Name : ecto0310  
+Age : 23  
+Birthday : 2003-03-10  
 
 ## Competitive programming
 
@@ -120,7 +120,11 @@ TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font col
 
 - ネットワークスペシャリスト試験
 
+- 情報処理安全確保支援士
+
 - 第二種電気工事士
+
+- 認定電気工事従事者
 
 - 応用情報技術者
 
@@ -129,3 +133,5 @@ TopCoder : [ecto0310](https://www.topcoder.com/members/ecto0310/) (SRM <font col
 - 基本情報技術者
 
 - P 検 2 級
+
+- 丙種危険物取扱者
